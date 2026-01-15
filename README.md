@@ -1,4 +1,4 @@
-# Leverson Batista
+# Leverson Campos
 **Análise de Dados | Python, SQL & Power BI**
 
 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Lins, com foco em Análise de Dados.
@@ -46,7 +46,7 @@ Análises exploratórias com datasets públicos
 
   <br>
 
-  # Leverson Batista
+  # Leverson Campos
   **Data Analysis | Python, SQL & Power BI**
 
   Systems Analysis and Development student at Fatec Lins, focused on Data Analysis.
