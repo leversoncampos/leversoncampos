@@ -1,58 +1,90 @@
-**`Data Analysis Student | Systems Development | Turning Data into Insight`**  
-<br>
-Hi there! I'm **Leverson Batista**, a Systems Analysis and Development student at **Fatec Lins**, passionate about uncovering insights through data.  
+# Leverson Batista
+**Análise de Dados | Python, SQL & Power BI**
 
-My academic journey began with a deep curiosity about how people learn, and that curiosity naturally evolved into a fascination for **data, patterns, and logic**.  
-Today, I focus on transforming raw data into meaningful information that supports decisions, innovation, and real impact.  
+Estudante de Análise e Desenvolvimento de Sistemas na Fatec Lins, com foco em Análise de Dados.
 
-Driven by curiosity and a commitment to continuous learning, I’m developing strong skills in **data analysis, visualization, and backend logic**, bridging technology and human understanding.  
-
-💡 **Currently exploring:** Python for Data Analysis, SQL, and Power BI  
-📈 **Interests:** Data storytelling, machine learning fundamentals, and ethical data use  
-
-📌 **Welcome to my GitHub!**  
-Here, you’ll find studies, analyses, and projects that reflect my evolution as a data professional.
+Utilizo Python (Pandas, NumPy, Matplotlib), SQL e Power BI para análise exploratória, limpeza e visualização de dados.
 
 ---
 
-## 🛠️ Technologies & Tools  
+## 🛠️ Stack Técnico
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50">
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
-
-## 🚀 Featured Projects  
-
-> **Portfolio section under development**  
->  
-> This area will soon highlight selected **data analysis projects**, showcasing my technical and analytical skills through real-world applications.  
->  
-> Future projects will include:  
-> - 📊 Interactive dashboards and reports built with **Power BI** and **Python**  
-> - 📈 Exploratory Data Analysis (EDA) using **Pandas**, **NumPy**, and **Matplotlib**  
-> - 🧠 Insight-driven scripts focused on problem-solving and data-driven decision-making  
->  
-> **Stay tuned:** the portfolio is being carefully crafted to reflect both **technical depth** and **business understanding**.
+**Análise de Dados**: Pandas, NumPy, Matplotlib, Seaborn  
+**Banco de Dados**: MySQL  
+**Visualização**: Power BI  
+**Versionamento**: Git & GitHub
 
 ---
 
-## 📊 GitHub Statistics  
+## 📂 Estrutura dos Repositórios
 
-<div align="left">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=levbatista&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Leverson GitHub Stats">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levbatista&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages">
-</div>
+**🇧🇷 Projetos Acadêmicos** (Português)  
+Trabalhos e estudos de caso desenvolvidos na Fatec Lins
+
+**🇺🇸 Projetos Pessoais** (English)  
+Análises exploratórias com datasets públicos
 
 ---
 
-<!-- Optional aesthetic GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Animated illustration">
-</p>
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leversoncampos)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:leverbat@outlook.com)
+
+
+---
+
+<details>
+  <summary><strong>🇺🇸 English version</strong></summary>
+
+  <br>
+
+  # Leverson Batista
+  **Data Analysis | Python, SQL & Power BI**
+
+  Systems Analysis and Development student at Fatec Lins, focused on Data Analysis.
+
+ I use Python (Pandas, NumPy, Matplotlib), SQL, and Power BI for exploratory data analysis, data cleaning, and data visualization.
+
+  ---
+
+  ## 🛠️ Tech Stack
+
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+  **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn  
+  **Database**: MySQL  
+  **Visualization**: Power BI  
+  **Version Control**: Git & GitHub
+
+  ---
+
+  ## 📂 Repository Structure
+
+  **🇧🇷 Academic Projects** (Portuguese)  
+  Coursework and case studies from Fatec Lins
+
+  **🇺🇸 Personal Projects** (English)  
+  Exploratory analysis with public datasets
+
+  ---
+
+  ## 📬 Contact
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leversoncampos)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:leverbat@outlook.com)
+
+
+</details>
