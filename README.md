@@ -23,16 +23,6 @@ Utilizo Python (Pandas, NumPy, Matplotlib), SQL e Power BI para análise explora
 
 ---
 
-## 📂 Estrutura dos Repositórios
-
-**🇧🇷 Projetos Acadêmicos** (Português)  
-Trabalhos e estudos de caso desenvolvidos na Fatec Lins
-
-**🇺🇸 Projetos Pessoais** (English)  
-Análises exploratórias com datasets públicos
-
----
-
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leversoncampos)
