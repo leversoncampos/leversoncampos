@@ -25,7 +25,6 @@ I am currently focusing on developing practical experience in:
 * SQL
 * Python
 * Power BI
-* Neo4j & Graph Databases
 * Data Visualization
 * Exploratory Data Analysis (EDA)
 * Statistical Analysis
