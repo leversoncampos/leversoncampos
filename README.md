@@ -1,30 +1,106 @@
-# Leverson Campos
-**Análise de Dados | Python, SQL & Power BI**
+# Hi, I'm Leverson Campos 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas na Fatec Lins, com foco em Análise de Dados.
+**Technology in Systems Analysis and Development student transitioning into Data Analytics.**
 
-Utilizo Python (Pandas, NumPy, Matplotlib), SQL e Power BI para análise exploratória, limpeza e visualização de dados.
+I build end-to-end data projects using **SQL, Python, Power BI, and Neo4j**, documenting each step—from data collection and cleaning to analysis and visualization—to ensure every conclusion is supported by clear and reproducible evidence.
 
----
-
-## 🛠️ Stack Técnico
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-**Análise de Dados**: Pandas, NumPy, Matplotlib, Seaborn  
-**Banco de Dados**: MySQL  
-**Visualização**: Power BI  
-**Versionamento**: Git & GitHub
+My approach has also been shaped by **applied academic research**, where I developed strong methodological rigor, critical thinking, and the habit of validating results before presenting them.
 
 ---
 
-## 📬 Contato
+# About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leversoncampos)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:leverbat@outlook.com)
+* 🎓 Technology in Systems Analysis and Development student
+* 📊 Currently seeking an internship in **Data Analytics**
+* 💻 Interested in Data Analytics, Data Engineering, and Graph Databases
+* 🔍 Passionate about solving problems through structured analysis and well-documented solutions
+* 📚 Continuously improving both technical and analytical skills through personal projects and applied research
 
+---
+
+# Current Focus
+
+I am currently focusing on developing practical experience in:
+
+* SQL
+* Python
+* Power BI
+* Neo4j & Graph Databases
+* Data Visualization
+* Exploratory Data Analysis (EDA)
+* Statistical Analysis
+* Data Modeling
+
+---
+
+# Applied Research
+
+Alongside software development, I participate in applied academic research integrating **Mathematics Education** and **Digital Technologies**.
+
+This experience strengthened skills that I also apply to software development:
+
+* Methodological rigor
+* Documentation
+* Critical analysis
+* Evidence-based decision making
+* Structured problem solving
+
+---
+
+# Technical Skills
+
+### Languages
+
+* Python
+* SQL
+* Java
+* JavaScript
+
+### Data
+
+* Pandas
+* NumPy
+* Power BI
+
+### Databases
+
+* PostgreSQL
+* MySQL
+* Neo4j
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+
+---
+
+# Currently Learning
+
+I'm continuously improving my knowledge in:
+
+* ETL Pipelines
+* Data Engineering
+* Graph Analytics
+* Statistics
+* Cloud Fundamentals
+
+---
+
+# Philosophy
+
+I believe that good technical work is not only about writing code.
+
+It is about understanding the problem, documenting decisions, validating results, and communicating findings clearly.
+
+That mindset guides every project in this portfolio.
+
+---
+
+# Let's Connect
+
+* 💼 LinkedIn: https://www.linkedin.com/in/leversoncampos/
+* 📧 Email: leverbat@outlook.com
+
+Thank you for visiting my profile!
